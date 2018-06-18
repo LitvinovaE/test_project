@@ -10,6 +10,8 @@ int main(int argc, char *argv[])
 	if(atoi(argv[1]) == 1)
 	{
 		A();
+        int a = 25;
+        a++;
 	}
 	else
 	{

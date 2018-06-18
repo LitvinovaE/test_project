@@ -3,5 +3,6 @@
 
 void A()
 {
+    printf("Hello, me!");
 	printf("A();\n");
 }
